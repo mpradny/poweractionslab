@@ -81,6 +81,8 @@
       <RootComponent type="1" schemaName="pristot_timeoffrequest" behavior="0" />
       <RootComponent type="62" schemaName="pristot_TimeOffRequests" behavior="0" />
       <RootComponent type="80" schemaName="pristot_TimeOffRequests" behavior="0" />
+      <RootComponent type="300" schemaName="pristot_test1_ab018" behavior="0" />
+      <RootComponent type="300" schemaName="pristot_testcostestimator_654de" behavior="0" />
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>

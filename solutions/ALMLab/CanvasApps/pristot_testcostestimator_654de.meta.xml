@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>pristot_testcostestimator_654de</Name>
+  <AppVersion>2020-10-01T12:10:36Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20092.39.0</CreatedByClientVersion>
+  <MinClientVersion>3.20092.39.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"20201001T121036Z-3.20092.39.0","deviceCapabilities":"webcam","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20092.39","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>TestCostEstimator</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"dbc83e2e-0c71-45c7-9c51-20ed0c0abfec":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/excel/icon_1.0.1352.2012.png","dataSources":["Jobs","Filters","Rooms","Floorings","FlooringSummary","Photo"],"dependencies":["5689083a-eeb2-46f1-964f-efc3d1605e69"],"dependents":[],"parameterHints":{"5689083a-eeb2-46f1-964f-efc3d1605e69":{"value":"fileSource"}},"isOnPremiseConnection":false,"dataSets":{"b!lh-cYE0UJUaKBMQCQCxpyaUa3OYiCYlPuh9jGouiP2Er24L_KAdLQrNevodzcuFI.01UNNWVSPOPVJ4KVGJYBGYCVHBV66UHWW4":{"dataSources":{"Jobs":{"tableName":"Jobs"},"Filters":{"tableName":"Filters"},"Rooms":{"tableName":"Rooms"},"Floorings":{"tableName":"Floorings"},"FlooringSummary":{"tableName":"FlooringSummary"},"Photo":{"tableName":"Photo"}}}},"apiTier":"Standard"},"5689083a-eeb2-46f1-964f-efc3d1605e69":{"id":"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness","displayName":"OneDrive for Business","iconUri":"https://connectoricons-prod.azureedge.net/onedriveforbusiness/icon_1.0.1341.1987.png","dataSources":[],"dependencies":[],"dependents":["dbc83e2e-0c71-45c7-9c51-20ed0c0abfec"],"parameterHints":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/pristot_testcostestimator_654de_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/pristot_testcostestimator_654de_DocumentUri.msapp</DocumentUri>
+</CanvasApp>

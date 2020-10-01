@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>pristot_test1_ab018</Name>
+  <AppVersion>2020-10-01T11:55:13Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.20092.39.0</CreatedByClientVersion>
+  <MinClientVersion>3.20092.39.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"20201001T115513Z-3.20093.27.0","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20092.39","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>test1</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+  <ConnectionReferences>{"555531a6-8a38-49d3-9f05-b1debe0b8060":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/excel/icon_1.0.1352.2012.png","dataSources":["Actions","Categories"],"dependencies":["444798e1-db97-4ceb-adf2-ab84f0df5cd4"],"dependents":[],"parameterHints":{"444798e1-db97-4ceb-adf2-ab84f0df5cd4":{"value":"fileSource"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"b!lh-cYE0UJUaKBMQCQCxpyaUa3OYiCYlPuh9jGouiP2Er24L_KAdLQrNevodzcuFI.01UNNWVSMBNFVQZMGEFZEZQCU7DQO6MVO5":{"dataSources":{"Actions":{"tableName":"Actions"},"Categories":{"tableName":"Categories"}}}},"apiTier":"Standard"},"444798e1-db97-4ceb-adf2-ab84f0df5cd4":{"id":"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness","displayName":"OneDrive for Business","iconUri":"https://connectoricons-prod.azureedge.net/onedriveforbusiness/icon_1.0.1341.1987.png","dataSources":[],"dependencies":[],"dependents":["555531a6-8a38-49d3-9f05-b1debe0b8060"],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <BackgroundImageUri>/CanvasApps/pristot_test1_ab018_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/pristot_test1_ab018_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
